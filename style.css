@@ -1,0 +1,14 @@
+.con{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    justify-content: space-between;
+}
+.body{
+    background: blue;
+    color: white;
+    text-align: center;
+}
+.ul{
+    text-decoration: none;
+}
